@@ -1,11 +1,11 @@
-# 👋 Yash Seeram
+# 🧠 Yash Seeram
 
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=34&pause=1000&color=00F7FF&width=900&lines=AI%2FML+Engineer;Game+Developer;Cloud+Engineering+Enthusiast;Full-Stack+Developer;Research+%26+Conference+Paper+Contributor" alt="Typing SVG" />
 </p>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=seeramyash&style=for-the-badge&color=blueviolet" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=seeramyash&style=for-the-badge&color=blueviolet" />
   <img src="https://img.shields.io/github/followers/seeramyash?style=for-the-badge" />
   <img src="https://img.shields.io/github/stars/seeramyash?style=for-the-badge" />
 </p>
@@ -14,13 +14,15 @@
 
 # 🚀 About Me
 
-Passionate developer from India focused on AI/ML, Game Development, Cloud Engineering, and Full-Stack Development.  
-I enjoy building intelligent systems, scalable platforms, and immersive digital experiences that solve real-world problems.
+Passionate developer from India focused on AI/ML, Game Development, Cloud Engineering, and Full-Stack Development.
+
+I enjoy building intelligent systems, scalable platforms, immersive digital experiences, and research-driven AI applications that solve real-world problems.
 
 - 🤖 AI/ML Developer
 - 🎮 Game Developer
 - ☁️ Cloud Engineering Enthusiast
 - 💻 Full-Stack Developer
+- 📄 Conference Paper Contributor
 - 🧠 Research-Driven Builder
 
 ---
@@ -31,15 +33,17 @@ I enjoy building intelligent systems, scalable platforms, and immersive digital 
 
 🏆 HackVyuha 2k25 Winner | [💻 Code](https://github.com/seeramyash/Her-Haven) | [🚀 Live](https://stego-v7mi.onrender.com)
 
+<img align="right" width="280" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
+
 ### 🌟 Overview
-Her Haven is an AI-powered women’s safety and wellness ecosystem that combines health tracking, AI chatbot support, secure communication, and emergency-focused tools into a unified platform.
+Her Haven is an AI-powered women’s safety and wellness ecosystem combining AI assistance, secure communication, health tracking, and emergency-focused services into one intelligent platform.
 
 ### ✨ Features
-- 🤖 AI avatar assistant & chatbot support
-- 🔐 Secure steganography-based messaging
-- ❤️ Wellness & health tracking
-- 💬 Real-time communication modules
-- 🌐 Multiple integrated web applications
+- 🤖 AI Avatar Assistant & Chatbot Support
+- 🔐 Secure Steganography-Based Messaging
+- ❤️ Wellness & Health Tracking
+- 💬 Real-Time Communication Modules
+- 🌐 Multiple Integrated Web Applications
 
 ### 🛠️ Tech Stack
 `React` `Node.js` `Flask` `Socket.IO` `StegCloak` `Computer Vision`
@@ -56,7 +60,9 @@ Her Haven is an AI-powered women’s safety and wellness ecosystem that combines
 - `WomensWellnessReport/`
 
 ### 🎯 Achievement
-Recognized at HackVyuha 2k25 for innovation, impact, and real-world social problem solving.
+Recognized at HackVyuha 2k25 for innovation, impact, and solving real-world social challenges.
+
+<br clear="right"/>
 
 ---
 
@@ -64,20 +70,22 @@ Recognized at HackVyuha 2k25 for innovation, impact, and real-world social probl
 
 [💻 Code](https://github.com/seeramyash/glucoma_final_multi_model_project) | 📄 Conference Paper In Progress
 
+<img align="right" width="270" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif">
+
 ### 🌟 Overview
 A research-focused medical AI system combining Quantum Vision Transformers and BERT-based clinical analysis for accurate glaucoma detection.
 
 ### ⚡ Core Models
 - 🔬 Quantum Vision Transformer (QVT)
-- 🤖 BERT Transformer for clinical data
-- 🧠 Ensemble Fusion prediction system
+- 🤖 BERT Transformer for Clinical Data
+- 🧠 Ensemble Fusion Prediction System
 
 ### ✨ Features
-- 📊 Multi-modal input support
-- ⚡ Real-time prediction pipeline
-- 🌐 Flask API integration
-- 🖥️ Web-based prediction interface
-- 📈 Ensemble-based improved accuracy
+- 📊 Multi-Modal Input Support
+- ⚡ Real-Time Prediction Pipeline
+- 🌐 Flask API Integration
+- 🖥️ Web-Based Prediction Interface
+- 📈 Ensemble-Based Improved Accuracy
 
 ### 🛠️ Tech Stack
 `Python` `TensorFlow` `BERT` `Flask` `Computer Vision` `Deep Learning`
@@ -97,22 +105,26 @@ glaucoma_multi_model/
 ### 🎯 Research Goal
 Currently being expanded into a conference-paper-grade AI healthcare research project.
 
+<br clear="right"/>
+
 ---
 
 ## 3️⃣ 🌍 Pixelverse — Pixel-Perfect Land Use Change Detection
 
 [💻 Code](https://github.com/seeramyash/Pixelverse)
 
+<img align="right" width="280" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2N6NjN4MXB3MzQ3Y2JjNXA2YjM0NnJjMHFqZ3VxZzVrb2R4N2U2YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif">
+
 ### 🌟 Overview
 AI-powered geospatial analytics platform for pixel-level land-use change detection across Tirupati District using Sentinel-2 satellite imagery.
 
 ### ✨ Features
-- 🛰️ 10m pixel-resolution change tracking
-- 🤖 Ollama LLM-powered AI insights
-- 🗺️ Interactive Leaflet.js dashboard
-- 📊 Temporal analysis (2019–2024)
-- 📈 Transition matrix & area statistics
-- 🌐 FastAPI-powered backend
+- 🛰️ 10m Pixel-Resolution Change Tracking
+- 🤖 Ollama LLM-Powered AI Insights
+- 🗺️ Interactive Leaflet.js Dashboard
+- 📊 Temporal Analysis (2019–2024)
+- 📈 Transition Matrix & Area Statistics
+- 🌐 FastAPI-Powered Backend
 
 ### 🛠️ Tech Stack
 `FastAPI` `Leaflet.js` `Rasterio` `GDAL` `NumPy` `GeoTIFF` `Ollama`
@@ -126,6 +138,8 @@ AI-powered geospatial analytics platform for pixel-level land-use change detecti
 
 ### 🎯 Impact
 Built for sustainable development analytics and AI-driven geospatial intelligence.
+
+<br clear="right"/>
 
 ---
 
@@ -143,6 +157,8 @@ Built for sustainable development analytics and AI-driven geospatial intelligenc
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
+---
+
 ## 🤖 AI / ML
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -151,11 +167,15 @@ Built for sustainable development analytics and AI-driven geospatial intelligenc
 ![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
+---
+
 ## ☁️ Cloud & Database
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+---
 
 ## 🎮 Game Development
 
@@ -166,6 +186,10 @@ Built for sustainable development analytics and AI-driven geospatial intelligenc
 </td>
 
 <td valign="top" width="50%">
+
+<img width="100%" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+
+<br><br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=seeramyash&theme=tokyo-night" width="100%" />
 
@@ -204,6 +228,7 @@ Built for sustainable development analytics and AI-driven geospatial intelligenc
 - 🎮 Loves building games and AI systems
 - ☁️ Exploring scalable cloud-native architectures
 - 🧠 Interested in research-oriented AI applications
+- 🚀 Passionate about building impactful technology
 
 ---
 
