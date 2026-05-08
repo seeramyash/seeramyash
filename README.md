@@ -216,6 +216,7 @@ Built for sustainable development analytics and AI-driven geospatial intelligenc
 - 🧠 Interested in research-oriented AI applications
 - 🚀 Passionate about building impactful technology
 
----<p align="center">
+---
+<p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=140&section=footer"/>
 </p>
