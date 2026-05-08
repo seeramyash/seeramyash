@@ -202,15 +202,12 @@ Built for sustainable development analytics and AI-driven geospatial intelligenc
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=seeramyash&show_icons=true&theme=tokyonight&hide_border=true" />
-  
-  <img width="49%" src="https://streak-stats.demolab.com?user=seeramyash&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=seeramyash&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seeramyash&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seeramyash&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
----
 
 # 🌐 Connect With Me
 
