@@ -214,11 +214,11 @@ Built for sustainable development analytics and AI-driven geospatial intelligenc
 
 # 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yashwanth-seeram/)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge)](https://github.com/seeramyash)
 
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](seeramyashwanth@gmail.com)
 
 ---
 
