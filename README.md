@@ -21,7 +21,6 @@ I enjoy building intelligent systems, scalable platforms, and immersive digital 
 - 🎮 Game Developer
 - ☁️ Cloud Engineering Enthusiast
 - 💻 Full-Stack Developer
-- 📄 Conference Paper Contributor
 - 🧠 Research-Driven Builder
 
 ---
