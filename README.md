@@ -1,7 +1,7 @@
 # 🧠 Yash Seeram
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=34&pause=1000&color=00F7FF&width=900&lines=AI%2FML+Engineer;Game+Developer;Cloud+Engineering+Enthusiast;Full-Stack+Developer;Research+%26+Conference+Paper+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=34&pause=1000&color=00F7FF&width=900&lines=AI%2FML+Engineer;Game+Developer;Cloud+Engineering+Enthusiast;Full-Stack+Developer" alt="Typing SVG" />
 </p>
 
 <p align="left">
