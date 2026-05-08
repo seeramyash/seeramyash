@@ -198,13 +198,6 @@ Built for sustainable development analytics and AI-driven geospatial intelligenc
 </table>
 
 ---
-
-# 📊 GitHub Analytics
-
-![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=seeramyash&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seeramyash&layout=compact&theme=tokyonight)
-
 # 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yashwanth-seeram/)
