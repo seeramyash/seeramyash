@@ -1,4 +1,3 @@
-```md
 # 👋 Yash Seeram
 
 <p align="left">
@@ -135,4 +134,3 @@ I enjoy building intelligent applications, scalable cloud systems, and immersive
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=seeramyash&style=for-the-badge&color=blueviolet" />
 </p>
-```
