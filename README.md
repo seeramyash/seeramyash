@@ -29,7 +29,7 @@ I enjoy building intelligent systems, scalable platforms, and immersive digital 
 
 ## 1️⃣ 🛡️ Her Haven — Women’s Safety Platform
 
-🏆 HackVyuha 2k25 Winner | [💻 Code](https://github.com/seeramyash) | [🚀 Live](https://stego-v7mi.onrender.com)
+🏆 HackVyuha 2k25 Winner | [💻 Code](https://github.com/seeramyash/Her-Haven) | [🚀 Live](https://stego-v7mi.onrender.com)
 
 ### 🌟 Overview
 Her Haven is an AI-powered women’s safety and wellness ecosystem that combines health tracking, AI chatbot support, secure communication, and emergency-focused tools into a unified platform.
@@ -62,7 +62,7 @@ Recognized at HackVyuha 2k25 for innovation, impact, and real-world social probl
 
 ## 2️⃣ 🧠 Multi-Model Glaucoma Detection System
 
-[💻 Code](https://github.com/seeramyash) | 📄 Conference Paper In Progress
+[💻 Code](https://github.com/seeramyash/glucoma_final_multi_model_project) | 📄 Conference Paper In Progress
 
 ### 🌟 Overview
 A research-focused medical AI system combining Quantum Vision Transformers and BERT-based clinical analysis for accurate glaucoma detection.
